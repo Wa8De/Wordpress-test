@@ -1,0 +1,42 @@
+/**
+ * Review notice styling
+ */
+
+ .trendy-news-review-notice {
+   font-family: cursive;
+ }
+
+ .trendy-news-review-notice .notice-highlight {
+   font-weight: bold;
+   font-size: 16px;
+ }
+
+ .trendy-news-review-notice .notice-actions .dismiss {
+   color: #ff0000;
+ }
+
+ .trendy-news-review-notice .notice-content {
+   padding: 10px 20px;
+   border: 1px solid #0000001f;
+   margin: 6px;
+ }
+
+ .trendy-news-review-notice .notice-actions a {
+   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+   padding: 10px;
+   margin: 10px;
+   cursor: pointer;
+ }
+
+ .trendy-news-review-notice .notice-actions span.dashicons {
+   padding: 4px;
+ }
+
+ .trendy-news-review-notice .notice-dismiss-button {
+   text-align: right;
+   padding-bottom: 10px;
+}
+
+.trendy-news-review-notice .notice-dismiss-button a {
+   color: #ff0000;
+}
